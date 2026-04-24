@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+CMakeSettings.json
+
+# VS Code
+.vscode/
+
+# Build output
+build/
+out/
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled binaries & objects
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# Generated PCAP output
+output.pcap
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+compile_commands.json
